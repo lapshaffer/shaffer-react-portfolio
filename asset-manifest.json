@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shaffer-react-portfolio/static/css/main.a617e044.chunk.css",
+    "main.js": "/shaffer-react-portfolio/static/js/main.1f28b17a.chunk.js",
+    "main.js.map": "/shaffer-react-portfolio/static/js/main.1f28b17a.chunk.js.map",
+    "runtime-main.js": "/shaffer-react-portfolio/static/js/runtime-main.2e6177bd.js",
+    "runtime-main.js.map": "/shaffer-react-portfolio/static/js/runtime-main.2e6177bd.js.map",
+    "static/js/2.80696b73.chunk.js": "/shaffer-react-portfolio/static/js/2.80696b73.chunk.js",
+    "static/js/2.80696b73.chunk.js.map": "/shaffer-react-portfolio/static/js/2.80696b73.chunk.js.map",
+    "static/js/3.207c9acf.chunk.js": "/shaffer-react-portfolio/static/js/3.207c9acf.chunk.js",
+    "static/js/3.207c9acf.chunk.js.map": "/shaffer-react-portfolio/static/js/3.207c9acf.chunk.js.map",
+    "index.html": "/shaffer-react-portfolio/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/shaffer-react-portfolio/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.80696b73.chunk.js.LICENSE.txt": "/shaffer-react-portfolio/static/js/2.80696b73.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/shaffer-react-portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e6177bd.js",
+    "static/js/2.80696b73.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.1f28b17a.chunk.js"
+  ]
+}
