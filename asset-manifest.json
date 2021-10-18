@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shaffer-react-portfolio/static/css/main.a617e044.chunk.css",
-    "main.js": "/shaffer-react-portfolio/static/js/main.1f28b17a.chunk.js",
-    "main.js.map": "/shaffer-react-portfolio/static/js/main.1f28b17a.chunk.js.map",
+    "main.js": "/shaffer-react-portfolio/static/js/main.bd7d21d6.chunk.js",
+    "main.js.map": "/shaffer-react-portfolio/static/js/main.bd7d21d6.chunk.js.map",
     "runtime-main.js": "/shaffer-react-portfolio/static/js/runtime-main.2e6177bd.js",
     "runtime-main.js.map": "/shaffer-react-portfolio/static/js/runtime-main.2e6177bd.js.map",
     "static/js/2.80696b73.chunk.js": "/shaffer-react-portfolio/static/js/2.80696b73.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2e6177bd.js",
     "static/js/2.80696b73.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.1f28b17a.chunk.js"
+    "static/js/main.bd7d21d6.chunk.js"
   ]
 }
